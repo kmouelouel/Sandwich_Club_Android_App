@@ -31,4 +31,4 @@ SOFTWARE.
 ![Main_Menu screenshot](./screenshots/main_menu.png)
 ![Bosna screenshot](./screenshots/bosna.png)
 ![Club_Sandwish screenshot](./screenshots/club_sandwich.png)
-![Pljeskavica screenshot](./screenshots/Pljeskavica.png)
+![Pljeskavica screenshot](./screenshots/pljeskavica.png)
